@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @irr320
+- 👋 Hi, I’m Rohith
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning python
 
